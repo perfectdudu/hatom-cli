@@ -1,0 +1,8 @@
+{
+    "tpl": {
+        "test_tpl": {
+            "url":"ssh://git@git.hikvision.com.cn:7999/~xuqing6/hatom-cli.git",
+            "description": "hatom 标准模板文件" 
+        }
+    }
+}
